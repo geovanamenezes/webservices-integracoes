@@ -1,15 +1,13 @@
-# Teste Demacode
-
-Oi! sou a Geovana, e finalmente aqui está o meu **projeto final** para a vaga de desenvolvedora Back-End na Demacode.
+# Apresentação
+Oi! sou a Geovana, e finalmente aqui está o meu **primeiro projeto utilizando o Spring para comunicações entre web-services**.
 
 # O que foi desenvolvido:
-
 A aplicação busca informações em uma lista de dados de um webservice e as envia para um outro webservice.
 
 
 ## O que foi utilizado:
 - O código foi feito na linguagem Java, com o framework Springboot.
-- Foi feito o deploy do código em uma [instância na AWS](ec2-3-17-61-16.us-east-2.compute.amazonaws.com). 
+- Foi feito o deploy do código em uma [instância na AWS](ec2-3-17-61-16.us-east-2.compute.amazonaws.com). (deploy não mais disponível)
 	>Como a aplicação é executada no terminal da Máquina Virtual, e esse não é possível acessar através do link, deixo ao final do README um gif que comprova o deploy realizado.
 
 ## Informações sobre o código:
