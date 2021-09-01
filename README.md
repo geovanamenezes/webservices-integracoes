@@ -25,4 +25,3 @@ A aplicação busca informações em uma lista de dados de um webservice e as en
 aba à esquerda: localhost da instância criada na AWS.
 aba à direita: terminal da instância criada.
 
-Obrigada pela oportunidade ;)
